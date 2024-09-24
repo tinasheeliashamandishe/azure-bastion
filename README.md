@@ -39,7 +39,7 @@ Create a Bastion subnet.<br/>
 <h4>Step 2</h4> 
 Configure Bastion.<br/>
 <img src="https://i.imgur.com/YnUlt3I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<h4>Step 3</h4>
+
 
 <h4>Step 3</h4> 
 Log into the VM.<br/>
